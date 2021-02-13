@@ -5,10 +5,11 @@ body{
 
 img { border-radius: 10% 30% 30% 30%;
     }
-.nome {
+.name {
    font-family: "Exo", sans-seriff; 
    font-size: 72px;
    color: #228cdb;
+   text-align: center;
 }
 .about{
    font-family: "Exo", sans-seriff;
@@ -40,4 +41,38 @@ img { border-radius: 10% 30% 30% 30%;
 }
 .just_learned{
    font-size: 13px;
+}
+
+
+.about {
+    display: inline-block;
+    border-style: solid;
+    width: 500px;
+    
+ }
+
+.picture {
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    background-color: #228cdb;
+}
+ .pic-description {
+    display: inline-block;
+    text-align: center;
+}
+
+.contact {
+    margin: 1px 1px 1px 1px;
+    width: 135px;
+    height: 15px;
+    padding: 10px 10px 10px 10px;
+    background-color: #ffb400;
+}
+
+.contato {
+    margin: auto;
+}
+
+.knowledge ul li:nth-child(odd) {
+    color: #ef476f;
 }
