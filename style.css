@@ -8,7 +8,7 @@ a {
 }
 
 img { border-radius: 10% 30% 30% 30%;
-   }
+
 .name {
   font-family: "Exo", sans-seriff; 
   font-size: 72px;
@@ -78,4 +78,7 @@ img { border-radius: 10% 30% 30% 30%;
 }
 
 .knowledge ul li:nth-child(odd) {
-   color: #ef476f;
+
+    color: #ef476f;
+}
+
