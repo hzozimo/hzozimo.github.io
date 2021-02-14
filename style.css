@@ -3,6 +3,10 @@ body{
     color: #8cffda;
 }
 
+a {
+   color: #ffb400;
+}
+
 img { border-radius: 10% 30% 30% 30%;
     }
 .name {
